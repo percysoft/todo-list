@@ -1,0 +1,12 @@
+.container-input {
+    width: 100%;
+    display: flex;
+    padding: 3%;
+}
+.container-item{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 3%;
+}
